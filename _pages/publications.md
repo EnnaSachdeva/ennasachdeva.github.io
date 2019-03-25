@@ -15,7 +15,7 @@ Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In
 
 <b>[Design and optimal springs stiffness estimation of a Modular OmniCrawler in-pipe climbing Robot](https://ieeexplore.ieee.org/document/8324698)</b> <br> <b>Sachdeva, Enna</b>, Akash Singh, Abhishek Sarkar, and K. Madhava Krishna. <i> In Robotics and Biomimetics (ROBIO), 2017 IEEE International Conference on, pp. 1912-1917. IEEE, 2017.</i>
 
-<b>[CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module](https://arxiv.org/abs/1709.10452)</b> <br> Singh, Akash, <b>Enna Sachdeva</b>, Vinay Rodrigues, Aditya Dhavala, and K. Madhava Krishna
+<b>[CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module](https://arxiv.org/abs/1709.10452)</b> <br> <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna
 <i>In Arxiv</i>.
 
 ## Electronics and Controls
