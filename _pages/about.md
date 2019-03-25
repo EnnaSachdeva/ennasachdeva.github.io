@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="files/enna_img.png" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/tree/master/files/enna_img.png" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
