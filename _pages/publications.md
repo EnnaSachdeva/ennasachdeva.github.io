@@ -8,12 +8,12 @@ author_profile: true
 
 <b>[Novel Legged-Omni Crawler to Wheel Transforming Module](https://arxiv.org/pdf/1806.00765.pdf)</b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>,S Hanisha, Yaoming Zhu, M Krishna.
-<i>In Robotics: Science and Systems -2018 (workshop).</i>
+<i>In Robotics: Science and Systems -2018 (workshop)</i>
 
 <b>[COCrIP: Compliant OmniCrawler In-Pipeline Robot](https://ieeexplore.ieee.org/document/8206446)</b> <br>
-Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International Conference on, pp. 5587-5593. IEEE, 2017.</i>
+Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International Conference on, pp. 5587-5593. IEEE, 2017</i>
 
-<b>[Design and optimal springs stiffness estimation of a Modular OmniCrawler in-pipe climbing Robot](https://ieeexplore.ieee.org/document/8324698)</b> <br> <b>Sachdeva, Enna</b>, Akash Singh, Abhishek Sarkar, and K. Madhava Krishna. <i> In Robotics and Biomimetics (ROBIO), 2017 IEEE International Conference on, pp. 1912-1917. IEEE, 2017.</i>
+<b>[Design and optimal springs stiffness estimation of a Modular OmniCrawler in-pipe climbing Robot](https://ieeexplore.ieee.org/document/8324698)</b> <br> <b>Sachdeva, Enna</b>, Akash Singh, Abhishek Sarkar, and K. Madhava Krishna. <i> In Robotics and Biomimetics (ROBIO), 2017 IEEE International Conference on, pp. 1912-1917. IEEE, 2017</i>
 
 <b>[CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module](https://arxiv.org/abs/1709.10452)</b> <br> <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna
 <i>In Arxiv</i>.
@@ -22,7 +22,7 @@ Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In
 
 <b>[A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems](https://www.tandfonline.com/doi/abs/10.1080/17508975.2018.1543179)</b><br>
 Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian Kohler, and Rajan Rawal
-<i>Intelligent Buildings International (2018): 1-30.</i>
+<i>Intelligent Buildings International (2018): 1-30</i>
 
 
 <b>[Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System](https://ieeexplore.ieee.org/document/7839149)</b><br>
