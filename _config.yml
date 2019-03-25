@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enna Sachdeva / Roboticist"
 title_separator          : "-"
 name                     : &name "Enna Sachdeva"
-description              : &description "MS in Robotics, CORIS, Oregon State University, I am currently pursuing MS in Robotics at Oregon State University. My interestes incude Reinforcement Learning,Evolutionary Algorithms, Motion Planning and Robotics."
+description              : &description "MS in Robotics, CORIS, Oregon State University."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EnnaSachdeva/ennasachdeva_roboticist.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Enna Sachdeva"
   avatar           : "profile.png"
-  bio              : "Roboticist"
-  location         : "Location"
+  bio              : "MS in Robotics, CORIS, Oregon State University"
+  location         : "Corvallis, Oregon"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://github.com/EnnaSachdeva?tab=repositories"
+  email            : "sachdeve@oregonstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EnnaSachdeva"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
