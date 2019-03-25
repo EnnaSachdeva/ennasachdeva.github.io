@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Robotics, Oregon State University, Corvallis, Oregon, 2018-2020
+* M.S. in Robotics, International Insititute of Information Technology, Hyderabad, 2016-2018
+* B.S. in Electronics and Communication Engineering, YMCA University of Science and Technology, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2018-Present: Graduate Research Assistant
+  * Oregon State University
+  * Supervisor: Professor Kagan Tumer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
+* 2016-2018: Graduate Research Assistant
+  * International Institute of Information Technology, Hyderabad
+  * Supervisor: Professor K. Madhava Krishna 
+
+* 2014-2015: Electronics Engineer
+  * Havells India Limited
   
 Skills
 ======
