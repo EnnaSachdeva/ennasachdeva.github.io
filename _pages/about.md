@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://
+ennasachdeva_roboticist.github.io/files/enna_img.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a MS student in the [CORIS department](https://robotics.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/). [[Curriculum Vitae]](). My Graduate research Advisor is [ Prof. Kagan Tumer](http://web.engr.oregonstate.edu/~ktumer/).
