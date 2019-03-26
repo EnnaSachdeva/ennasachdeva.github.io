@@ -11,9 +11,9 @@ title                    : "Enna Sachdeva"
 title_separator          : "-"
 name                     : &name "Enna Sachdeva"
 description              : &description "MS in Robotics, CORIS, Oregon State University."
-url                      : https://ennasachdeva.github.io/ennasachdeva_roboticist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ennasachdeva.github.io/ennasachdeva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EnnaSachdeva/ennasachdeva_roboticist.github.io"
+repository               : "EnnaSachdeva/ennasachdeva.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
