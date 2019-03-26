@@ -30,33 +30,14 @@ Work experience
 * 2014-2015: Electronics Engineer
   * Havells India Limited
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics
+  * Motion Planning 
+  * Multirobot Coordination
+  * Dynamics and Controls
+* Aritificial Intelligence in General
+  * Reinforcement Learning 
+  * Deep Learning
+  * Multiagent Systems
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
