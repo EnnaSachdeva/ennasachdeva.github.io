@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Autoencoders to enhance Multi-Agent Coordination in a Tightly-Coupled Domain
+## Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
 [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
 Deep Reinforcement learning has been shown to address several multi-agent coordination tasks. However, with the increase in the number of agents as well as in tightly-coupled settings, learning optimal joint policies becomes challenging. In this paper, we address these 2 problems in a partially-observable rover domain environment using Deep Deterministic Policy Gradient (DDPG) and autoencoders. We obtain decentralized optimal policies with each agent trained using independent DDPG learning algorithm. Further, we compress the state space using autoencoders to test the efficacy of the latent representation of the state in finding the optimal policies in a tightly-coupled multiagent environment. We further compare  results with 2 different latent state dimensions of 5 and 10, with that of the complete state representation of dimension of 40, and our results show that latent representation of 10 performs equally well as that with complete state representation.
