@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
+
 [My Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/Research_Resume_2018.pdf)
 Education
 ======
