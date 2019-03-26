@@ -188,6 +188,9 @@ collections:
   scribenotes:
     output: true
     permalink: /collection/:path/
+  extracurricular:
+    output: true
+    permalink: /collection/:path/
   contact:
     output: true
     permalink: /collection/:path/
