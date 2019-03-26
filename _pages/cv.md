@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Here is my [Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/Research_Resume_2018.pdf)<br>
 
-[My Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/Research_Resume_2018.pdf)<br>
 Education
 ======
 * M.S. in Robotics, Oregon State University, Corvallis, Oregon, 2018-2020
