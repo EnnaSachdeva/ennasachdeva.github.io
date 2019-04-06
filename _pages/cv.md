@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is my [Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/Research_Resume_2018.pdf)<br>
+Here is my [Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/resume_Enna.pdf)<br>
 
 Education
 ======
