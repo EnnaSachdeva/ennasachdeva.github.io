@@ -19,7 +19,7 @@ redirect_from:
 * My research interests lie in the Robotics and AI in broad sense. Particularly, I am interested in deep Reinforcement learnin, Genetic Algorithms, and their applications in Motion Planning, Sequential Decision Making and multiagent systems.
 
 
-#### Skills
+## Skills
 
 * Pytorch
 * Tensor Flow
