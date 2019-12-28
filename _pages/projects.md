@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
+## Visual Navigation based Environment Exploration
 [Video](https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo)<br />
 In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions to learn a policy. Given the frontiers along with the information of the explored region and occupancy map, the learned policy maximize the exploration the environment in a given limited time. Inspired by the structural distribution of coal mines, we generated a "Tunnel Dataset" with Multimodal Gaussian  distribution. The dataset consists of Grid world maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), and is able to reach 78.38% exploration within a specific time limit as number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration with a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of specific time constraint). The PPO trained policy is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
 
