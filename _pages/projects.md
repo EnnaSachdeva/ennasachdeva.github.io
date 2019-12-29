@@ -37,14 +37,14 @@ sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a X
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
 [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 
 <a href="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be
