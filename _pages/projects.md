@@ -4,6 +4,11 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Visual Navigation based Environment Exploration
+[Video](https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo)<br />
+In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions of an unknown tunnel, so as to maximally explore the environment with a limited fuel in the robot. Given the frontiers along with the information of the history of the previously explored region and occupancy map, the agent aims to learns a policy to visit the unexplored regions so as to maximize the coverage in a given time constraint. Inspired by the structural distribution of coal mines across the world, we generated a "Tunnel Dataset" with Multimodal Gaussian distribution. The dataset consists of Grid world like maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), to maximize exploration within a specific time limit as the number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration in a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of limited time). The PPO trained agent is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
+
+
 ## Autonomous Building Floor Activity Profiling System
 [Video](https://youtu.be/KmoZzMOiX5c)<br />
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
@@ -13,10 +18,6 @@ control systems in old buildings. To address this issue, we propose an autonomou
 heat maps of building floors with minimal setup. The robot will autonomously navigate through predetermined waypoints
 on the floor and will gather occupancy data on an hourly basis. Initial simulations of the same are performed on RViz and
 sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a Xbox 360 Kinect sensor and a webcam.
-
-## Visual Navigation based Environment Exploration
-[Video](https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo)<br />
-In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions of an unknown tunnel, so as to maximally explore the environment with a limited fuel in the robot. Given the frontiers along with the information of the history of the previously explored region and occupancy map, the agent aims to learns a policy to visit the unexplored regions so as to maximize the coverage in a given time constraint. Inspired by the structural distribution of coal mines across the world, we generated a "Tunnel Dataset" with Multimodal Gaussian distribution. The dataset consists of Grid world like maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), to maximize exploration within a specific time limit as the number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration in a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of limited time). The PPO trained agent is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
 
 ## Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
