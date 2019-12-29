@@ -12,14 +12,18 @@ author_profile: true
 
 <a href="https://www.youtube.com/embed/eGDtGmRTzaQ
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="Video" width="240" height="180" border="10" /> #### Video </a>
+alt="Video" width="240" height="180" border="10" /> Video </a>
 
 
 In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions of an unknown tunnel, so as to maximally explore the environment with a limited fuel in the robot. Given the frontiers along with the information of the history of the previously explored region and occupancy map, the agent aims to learns a policy to visit the unexplored regions so as to maximize the coverage in a given time constraint. Inspired by the structural distribution of coal mines across the world, we generated a "Tunnel Dataset" with Multimodal Gaussian distribution. The dataset consists of Grid world like maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), to maximize exploration within a specific time limit as the number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration in a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of limited time). The PPO trained agent is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
 
 
 ## Autonomous Building Floor Activity Profiling System
-<iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+
+<a href="https://youtu.be/KmoZzMOiX5c
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video </a>
 
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
 buildings are integrated with occupancy sensors, such as passive infrared sensors (PIR), to identify the user occupancy levels
@@ -33,14 +37,29 @@ sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a X
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
 [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+
+<a href="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video-1 (with actual state space) 
+
+href="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video-2 (with state compression from 40 to 10)
+
+href="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video-3 (with state compression from 40 to 5) </a>
+
+
 
 Deep Reinforcement learning has been shown to address several multi-agent coordination tasks. However, with the increase in the number of agents as well as in tightly-coupled settings, learning optimal joint policies becomes challenging. In this paper, we address these 2 problems in a partially-observable rover domain environment using Deep Deterministic Policy Gradient (DDPG) and autoencoders. We obtain decentralized optimal policies with each agent trained using independent DDPG algorithm. Further, we compress the state space using autoencoders to test the efficacy of the latent representation of the state in finding the optimal policies in a tightly-coupled multiagent environment. We further compare  results with 2 different latent state dimensions of 5 and 10, with that of the complete state representation of dimension of 40, and our results show that latent representation of 10 performs equally well as that with complete state representation.
 
@@ -56,13 +75,24 @@ Deep Reinforcement Learning (DRL) algorithms have been successfully applied to a
 ## COCrIP: Compliant OmniCrawler In-Pipe Climbing Robot
 [code](https://github.com/EnnaSachdeva/IROS-2017-COCrIP-Optimization)<br />
 [Paper](https://ieeexplore.ieee.org/document/8206446)<br />
-[Video](https://www.youtube.com/watch?v=Esd47RzzpOU)<br />
+<!-- [Video](https://www.youtube.com/watch?v=Esd47RzzpOU)<br />
+
+<a href="https://www.youtube.com/watch?v=Esd47RzzpOU
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video </a>
+
+
 This presents a modular in-pipeline climbing robot with a novel compliant foldable OmniCrawler mechanism. The circular cross-section of the OmniCrawler module enables a holonomic motion to facilitate the alignment of the robot in the direction of bends. Additionally, the crawler mechanism provides a fair amount of traction, even on slippery surfaces. These advantages of crawler modules have been further supplemented by incorporating active compliance in the module itself which helps to negotiate sharp bends in small diameter pipes. The robot has a series of 3 such compliant foldable modules interconnected by the links via passive joints. For the desirable pipe diameter and curvature of the bends, the spring stiffness value for each passive joint is determined by formulating a constrained optimization problem using the quasi-static model of the robot.
 
 
 ## CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module
 [Paper](https://arxiv.org/abs/1709.10452)<br />
-[Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br />
+<!--  [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br />
+
+<a href="https://www.youtube.com/watch?v=XvvHkCk2Ns4
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Video" width="240" height="180" border="10" /> Video </a>
+
 This paper presents a novel design of an Omnidirectional bendable Omnicrawler module. Compared to conventional crawlers, OmniCrawler module possesses an extra degree of freedom for sideways rolling motion, and the circular crosssection of the module enables holonomic motion of the robot. These advantages are further enhanced by the introduction of Omnidirectional joint with-in the module, which is the key contribution of this paper. This achieves high maneuverability and adaptability of the OmniCrawler module on an uneven surface. The Omni-directional bending is realized by means of two mechanisms: a Telescopic screw drive mechanism, and an arrangement of two independent 1-DOF joints aligned at 90? with respect to each other. The hybrid soft-rigid structure of the module provides compliant pathways for lug-chain assembly which allows crawling motion even in the bent configuration of the module. We show that the unique modular design unveils its versatility in terms of achieving compliance on an uneven surface, demonstrating its applications in different robotic platforms, such as an in-pipeline robot, Quadruped, snake robot, and exhibiting hybrid locomotive traits in various configurations of the robots with the help of simulations and experiments results on real robot prototype.
 
 ## Design of low power VLSI-architecture and ASIC implementation of fuzzy logic based automatic car-parking system
