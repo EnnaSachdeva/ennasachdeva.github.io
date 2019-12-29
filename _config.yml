@@ -86,7 +86,7 @@ author:
   location         : "Corvallis, Oregon"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QIZZA0oAAAAJhl=enoi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=QIZZA0oAAAAJ&hl=en&oi=ao"
   email            : "sachdeve@oregonstate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/enna-sachdeva-67030853"
+  linkedin         : "https://www.linkedin.com/in/enna-sachdeva-67030853/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
