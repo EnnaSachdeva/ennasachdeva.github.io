@@ -11,7 +11,7 @@ author_profile: true
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/eGDtGmRTzaQ)-->
 
 <a href="https://youtu.be/eGDtGmRTzaQ
-" target="_blank"><img src="https://img.youtube.com/vi/eGDtGmRTzaQ/0.jpg" 
+" target="_blank"><img src="../files/visual_navigation_pic.png"
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 
