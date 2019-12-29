@@ -22,7 +22,7 @@ In this project, we aim to maximize the exploration coverage of a partially unkn
 <!-- <iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 <a href="https://youtu.be/KmoZzMOiX5c
-" target="_blank"><img src="https://img.youtube.com/vi/KmoZzMOiX5c/0.jpg" 
+" target="_blank"><img src="../files/autonomous_navigation_pic.png" 
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
@@ -48,15 +48,15 @@ sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a X
 
 
 <a href="https://youtu.be/MmVGEEDoO_A
-" target="_blank"><img src="https://img.youtube.com/vi/MmVGEEDoO_A/0.jpg" 
+" target="_blank"><img src="../files/autoencoder_original.png" 
 alt="Video" width="240" height="180" border="10" /> Video-1 (with actual state space) </a>
 
 <a href="https://youtu.be/Q1Kl0wrkQd0
-" target="_blank"><img src="https://img.youtube.com/vi/Q1Kl0wrkQd0/0.jpg" 
+" target="_blank"><img src="../files/autoencoder_5.png" 
 alt="Video" width="240" height="180" border="10" /> Video-2 (with state compression from 40 to 10) </a>
 
 <a href="https://youtu.be/5hfmW056Sys
-" target="_blank"><img src="https://img.youtube.com/vi/5hfmW056Sys/0.jpg" 
+" target="_blank"><img src="../files/autoencoder_10.png" 
 alt="Video" width="240" height="180" border="10" /> Video-3 (with state compression from 40 to 5) </a>
 
 Deep Reinforcement learning has been shown to address several multi-agent coordination tasks. However, with the increase in the number of agents as well as in tightly-coupled settings, learning optimal joint policies becomes challenging. In this paper, we address these 2 problems in a partially-observable rover domain environment using Deep Deterministic Policy Gradient (DDPG) and autoencoders. We obtain decentralized optimal policies with each agent trained using independent DDPG algorithm. Further, we compress the state space using autoencoders to test the efficacy of the latent representation of the state in finding the optimal policies in a tightly-coupled multiagent environment. We further compare  results with 2 different latent state dimensions of 5 and 10, with that of the complete state representation of dimension of 40, and our results show that latent representation of 10 performs equally well as that with complete state representation.
@@ -88,7 +88,7 @@ This presents a modular in-pipeline climbing robot with a novel compliant foldab
 <!--  [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br /> -->
 
 <a href="https://youtu.be/XvvHkCk2Ns4
-" target="_blank"><img src="http://img.youtube.com/vi/XvvHkCk2Ns4/0.jpg" 
+" target="_blank"><img src="../files/cobraso.png" 
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 This paper presents a novel design of an Omnidirectional bendable Omnicrawler module. Compared to conventional crawlers, OmniCrawler module possesses an extra degree of freedom for sideways rolling motion, and the circular crosssection of the module enables holonomic motion of the robot. These advantages are further enhanced by the introduction of Omnidirectional joint with-in the module, which is the key contribution of this paper. This achieves high maneuverability and adaptability of the OmniCrawler module on an uneven surface. The Omni-directional bending is realized by means of two mechanisms: a Telescopic screw drive mechanism, and an arrangement of two independent 1-DOF joints aligned at 90? with respect to each other. The hybrid soft-rigid structure of the module provides compliant pathways for lug-chain assembly which allows crawling motion even in the bent configuration of the module. We show that the unique modular design unveils its versatility in terms of achieving compliance on an uneven surface, demonstrating its applications in different robotic platforms, such as an in-pipeline robot, Quadruped, snake robot, and exhibiting hybrid locomotive traits in various configurations of the robots with the help of simulations and experiments results on real robot prototype.
