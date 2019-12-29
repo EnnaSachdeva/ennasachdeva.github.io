@@ -75,7 +75,7 @@ Deep Reinforcement Learning (DRL) algorithms have been successfully applied to a
 ## COCrIP: Compliant OmniCrawler In-Pipe Climbing Robot
 [code](https://github.com/EnnaSachdeva/IROS-2017-COCrIP-Optimization)<br />
 [Paper](https://ieeexplore.ieee.org/document/8206446)<br />
-<!-- [Video](https://www.youtube.com/watch?v=Esd47RzzpOU)<br />
+<!-- [Video](https://www.youtube.com/watch?v=Esd47RzzpOU)<br /> -->
 
 <a href="https://www.youtube.com/watch?v=Esd47RzzpOU
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
@@ -87,7 +87,7 @@ This presents a modular in-pipeline climbing robot with a novel compliant foldab
 
 ## CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module
 [Paper](https://arxiv.org/abs/1709.10452)<br />
-<!--  [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br />
+<!--  [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br /> -->
 
 <a href="https://www.youtube.com/watch?v=XvvHkCk2Ns4
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
