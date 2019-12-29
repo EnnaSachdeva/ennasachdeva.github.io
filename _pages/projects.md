@@ -4,10 +4,19 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Autonomous Building Floor Activity Profiling System
+[Video](https://youtu.be/KmoZzMOiX5c)<br />
+Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
+buildings are integrated with occupancy sensors, such as passive infrared sensors (PIR), to identify the user occupancy levels
+and thereby manage resource allocation and optimize energy usage. However, it is not always feasible to retrofit these sensor
+control systems in old buildings. To address this issue, we propose an autonomous mobile system to generate occupancy
+heat maps of building floors with minimal setup. The robot will autonomously navigate through predetermined waypoints
+on the floor and will gather occupancy data on an hourly basis. Initial simulations of the same will be performed on RViz and
+sim-to-real implementation will be done on a Pioneer-P3DX robot retrofitted with a Xbox 360 Kinect sensor and a webcam.
+
 ## Visual Navigation based Environment Exploration
 [Video](https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo)<br />
 In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions to learn a policy. Given the frontiers along with the information of the explored region and occupancy map, the learned policy maximize the exploration the environment in a given limited time. Inspired by the structural distribution of coal mines, we generated a "Tunnel Dataset" with Multimodal Gaussian  distribution. The dataset consists of Grid world maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), and is able to reach 78.38% exploration within a specific time limit as number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration with a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of specific time constraint). The PPO trained policy is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
-
 
 ## Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
