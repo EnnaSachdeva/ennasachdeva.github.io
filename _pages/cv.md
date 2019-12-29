@@ -11,8 +11,8 @@ Here is my [Resume](https://github.com/EnnaSachdeva/ennasachdeva_roboticist.gith
 
 Education
 ======
-* M.S. in Robotics, Oregon State University, Corvallis, Oregon, 2018-2020
-* M.S. in Robotics, International Insititute of Information Technology, Hyderabad, 2016-2018
+* Garduate Robotics Student, Oregon State University, Corvallis, Oregon, 2018-2020
+* M.S. in Electronics and Communication Engineering (Major in Robotics), International Insititute of Information Technology, Hyderabad, 2016-2018
 * B.S. in Electronics and Communication Engineering, YMCA University of Science and Technology, 2014
 
 Work experience
