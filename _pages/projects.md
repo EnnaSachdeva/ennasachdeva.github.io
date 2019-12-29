@@ -5,7 +5,10 @@ author_profile: true
 ---
 
 ## Visual Navigation based Environment Exploration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGDtGmRTzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eGDtGmRTzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
+
+[![Visual Navigation for Environment Exploration](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/eGDtGmRTzaQ)
 
 In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions of an unknown tunnel, so as to maximally explore the environment with a limited fuel in the robot. Given the frontiers along with the information of the history of the previously explored region and occupancy map, the agent aims to learns a policy to visit the unexplored regions so as to maximize the coverage in a given time constraint. Inspired by the structural distribution of coal mines across the world, we generated a "Tunnel Dataset" with Multimodal Gaussian distribution. The dataset consists of Grid world like maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), to maximize exploration within a specific time limit as the number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration in a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of limited time). The PPO trained agent is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
 
