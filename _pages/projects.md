@@ -11,7 +11,7 @@ author_profile: true
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/eGDtGmRTzaQ)-->
 
 <a href="https://www.youtube.com/embed/eGDtGmRTzaQ
-" target="_blank"><img src="https://github.com/EnnaSachdeva/ennasachdeva.github.io/blob/master/files/visual_navigation_pic.png" 
+" target="_blank"><img src="https://img.youtube.com/vi/KmoZzMOiX5c/0.jpg" 
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 
@@ -22,7 +22,7 @@ In this project, we aim to maximize the exploration coverage of a partially unkn
 <!-- <iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 <a href="https://youtu.be/KmoZzMOiX5c
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/EnnaSachdeva/ennasachdeva.github.io/blob/master/files/autonomous_navigation.png" 
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
@@ -48,7 +48,7 @@ sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a X
 
 
 <a href="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/EnnaSachdeva/ennasachdeva.github.io/blob/master/files/autoencoder_original.png" 
 alt="Video" width="240" height="180" border="10" /> Video-1 (with actual state space) </a>
 
 <a href="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be
