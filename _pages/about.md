@@ -16,7 +16,7 @@ redirect_from:
 
 * I am an MS student in the [CORIS department](https://robotics.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/). My Graduate research Advisor is [ Prof. Kagan Tumer](http://web.engr.oregonstate.edu/~ktumer/).
 * I received my Bachelor’s Degree in [YMCA University of Science and Technology](http://www.ymcaust.ac.in/), and my another Masters in Robotics in [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/).
-* My research interests lie in the Robotics and AI in broad sense. Particularly, I am interested in deep Reinforcement learnin, Genetic Algorithms, and their applications in Motion Planning, Sequential Decision Making and multiagent systems.
+* My research interests span applying Artificial Intelligence to address core challenging problems in Robotics. Particularly, I am interested in Machine learning, Deep Reinforcement learning, Genetic Algorithms, and their applications in Motion Planning, Sequential Decision Making and multiagent systems.
 
 
 ## Skills
