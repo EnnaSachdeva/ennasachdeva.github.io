@@ -22,7 +22,7 @@ In this project, we aim to maximize the exploration coverage of a partially unkn
 <!-- <iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 
 <a href="https://youtu.be/KmoZzMOiX5c
-" target="_blank"><img src="../files/autonomous_navigation_pic.png" 
+" target="_blank"><img src="../files/autonomous_navigation.png" 
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
