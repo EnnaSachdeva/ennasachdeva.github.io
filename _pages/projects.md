@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 ## Visual Navigation based Environment Exploration
-[Video](https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo)<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eGDtGmRTzaQ&feature=emb_logo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In this project, we aim to maximize the exploration coverage of a partially unknown environment. Inspired by the DARPA Sub-T challenge, the task is to learn appropriate structure predictions of an unknown tunnel, so as to maximally explore the environment with a limited fuel in the robot. Given the frontiers along with the information of the history of the previously explored region and occupancy map, the agent aims to learns a policy to visit the unexplored regions so as to maximize the coverage in a given time constraint. Inspired by the structural distribution of coal mines across the world, we generated a "Tunnel Dataset" with Multimodal Gaussian distribution. The dataset consists of Grid world like maps with traversable nodes sampled from multimodal Gaussian Points. The agent learns a policy with a Reinforcement learning algorithm: Proximal Policy Optimization (PPO), to maximize exploration within a specific time limit as the number of traversable nodes. To generate the oracle policy which could give optimal action at every state to maximize the percentage exploration in a limited time budget, we formulated an Optimization problem using Orieteering (an extension of Travelling Salesman Problem with additional constraint of limited time). The PPO trained agent is able to achieve a percentage exploration of 78.38% as compared to 89.21% with Orienteering agent and 59.20% with random agent. 
 
 
 ## Autonomous Building Floor Activity Profiling System
-[Video](https://youtu.be/KmoZzMOiX5c)<br />
+<iframe width="560" height="315" src="https://youtu.be/KmoZzMOiX5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Occupancy profiling in large buildings can aid in identifying areas of low space usage throughout the day. In addition to providing insights on how to allocate resources like lighting, cooling, heating and ventilation in a more optimized manner, it can also be used to re-plan the arrangement of office resources dynamically. Today, most of the newly constructed
 buildings are integrated with occupancy sensors, such as passive infrared sensors (PIR), to identify the user occupancy levels
 and thereby manage resource allocation and optimize energy usage. However, it is not always feasible to retrofit these sensor
@@ -24,9 +24,15 @@ sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a X
 ## Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
 [code](https://github.com/EnnaSachdeva/D_VAE)<br />
 [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
-[Video-1 (with actual state space)](https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be)<br />
-[Video-2 (with state compression from 40 to 10)](https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be)<br />
-[Video-3 (with state compression from 40 to 5)](https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be)<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Deep Reinforcement learning has been shown to address several multi-agent coordination tasks. However, with the increase in the number of agents as well as in tightly-coupled settings, learning optimal joint policies becomes challenging. In this paper, we address these 2 problems in a partially-observable rover domain environment using Deep Deterministic Policy Gradient (DDPG) and autoencoders. We obtain decentralized optimal policies with each agent trained using independent DDPG algorithm. Further, we compress the state space using autoencoders to test the efficacy of the latent representation of the state in finding the optimal policies in a tightly-coupled multiagent environment. We further compare  results with 2 different latent state dimensions of 5 and 10, with that of the complete state representation of dimension of 40, and our results show that latent representation of 10 performs equally well as that with complete state representation.
 
