@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eGDtGmRTzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 
-<!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/eGDtGmRTzaQ)-->
+<!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
 
 <a href="https://youtu.be/eGDtGmRTzaQ
 " target="_blank"><img src="../files/visual_navigation_pic.png"
@@ -21,11 +21,11 @@ In this project, we aim to classify resume for a specific role. We used an LSTM 
 
 ## Visual Navigation based Environment Exploration
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eGDtGmRTzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/eGDtGmRTzaQ)-->
 
-<a href="https://youtu.be/eGDtGmRTzaQ
+<a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0
 " target="_blank"><img src="../files/visual_navigation_pic.png"
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
