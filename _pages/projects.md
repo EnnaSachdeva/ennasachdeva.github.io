@@ -7,11 +7,11 @@ author_profile: true
 
 ## Resume Classification
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eGDtGmRTzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
 
-<a href="https://youtu.be/eGDtGmRTzaQ
+<a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0
 " target="_blank"><img src="../files/visual_navigation_pic.png"
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
