@@ -16,7 +16,7 @@ author_profile: true
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 
-In this project, we aim to classify resume for a specific role. We used an LSTM model to train a neural network model with Tensorflow. The data is being pre-processed using Keras, to eliminate stop words, and tokenize the texts. We use the following dataset, which consists of 1000 resumes with 25 different categories. We achieve an accuracy of 99% with the following neural network model. We further deploy the model on an https server to screen any resume input by a user, and shows the top 5 categories, for which the resume seems to fit the best. 
+In this project, we aim to classify a resume for a specific role. We trained an LSTM model. The data is cleaned and pre-processed using NLTK and Keras, to eliminate stop words, and tokenize the words. We used a resume dataset from Kaggle (https://www.kaggle.com/dhainjeamita/resume-classification), which consists of 1000 resumes with 25 different categories. We achieved a validation accuracy of 99% with our trained model. We further deploy the model on an https server to screen any resume which is input by a user, and shows the top 5 categories, for which that resume seems to fit the best. 
 
 
 ## Visual Navigation based Environment Exploration
