@@ -13,9 +13,8 @@ author_profile: true
 
 <a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0
 " target="_blank"><img src="../files/CodeDay_labs_ppt_1.png"
-
+alt="Video" width="240" height="180" border="10" /> Video </a><br />
 [code](https://github.com/EnnaSachdeva/Resume-Screener)<br />
-alt="Video" width="240" height="180" border="10" /> Video </a>
 
 In this project, we aim to classify a resume for a specific role. We trained an LSTM model. The data is cleaned and pre-processed using NLTK and Keras, to eliminate stop words, and tokenize the words. We used a resume dataset from Kaggle (https://www.kaggle.com/dhainjeamita/resume-classification), which consists of 1000 resumes with 25 different categories. We achieved a validation accuracy of 99% with our trained model. We further deploy the model on an https server to screen any resume which is input by a user, and shows the top 5 categories, for which that resume seems to fit the best. 
 
