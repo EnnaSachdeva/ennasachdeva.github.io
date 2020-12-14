@@ -14,7 +14,7 @@ redirect_from:
 </p>
 --->
 
-* I am currently a Research Intern at [Honda Research Institute, USA](https://usa.honda-ri.com/), where I'm working on predicting and explaining relational reasoning for multiagent intelligent systems.
+* I am currently a Research Intern at [Honda Research Institute, USA](https://usa.honda-ri.com/), where I'm working on predicting and explaining relation reasoning for intelligent multiagent systems.
 * I recently completed Master of Science in Robotics from [Oregon State University](https://robotics.oregonstate.edu/) under the supervision of [ Prof. Kagan Tumer](http://web.engr.oregonstate.edu/~ktumer/). A few of the key research areas I worked on includes addressing credit assignment problem in single agent and multiagent coordination tasks with sparse binary rewards, using Hybrid Reinforcement learning and Evolutionary algorithms.
 * Prior to that, I obtained an MS in Electronics and Computer Engineering, with major in Robotics from [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/), and a Bachelor’s Degree in Electronics and Communication Engineering from [YMCA University of Science and Technology](http://www.ymcaust.ac.in/).
 * My research interests span Explainable AI, Multiagent systems, and Robotics. I'm very open to research discussions and collaboration. Please feel free to get in touch!
