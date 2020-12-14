@@ -6,32 +6,32 @@ author_profile: true
 
 ## Robotics
 
-<b>[Novel Legged-Omni Crawler to Wheel Transforming Module](https://arxiv.org/pdf/1806.00765.pdf)</b> <br>
+<b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>,S Hanisha, Yaoming Zhu, M Krishna.
-<i>In Robotics: Science and Systems -2018 (workshop). </i>
+<i>In Robotics: Science and Systems -2018 (workshop). [pdf](https://arxiv.org/pdf/1806.00765.pdf) </i>
 
-<b>[COCrIP: Compliant OmniCrawler In-Pipeline Robot](https://ieeexplore.ieee.org/document/8206446)</b> <br>
-Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International Conference on, pp. 5587-5593. IEEE, 2017. </i>
+<b>COCrIP: Compliant OmniCrawler In-Pipeline Robot</b> <br>
+Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International Conference on, pp. 5587-5593. IEEE, 2017. [pdf](https://ieeexplore.ieee.org/document/8206446) </i>
 
-<b>[Design and optimal springs stiffness estimation of a Modular OmniCrawler in-pipe climbing Robot](https://ieeexplore.ieee.org/document/8324698)</b> <br> <b>Sachdeva, Enna</b>, Akash Singh, Abhishek Sarkar, and K. Madhava Krishna. <i> In Robotics and Biomimetics (ROBIO), 2017 IEEE International Conference on, pp. 1912-1917. IEEE, 2017. </i>
+<b>Design and optimal springs stiffness estimation of a Modular OmniCrawler in-pipe climbing Robot </b> <br> <b>Sachdeva, Enna</b>, Akash Singh, Abhishek Sarkar, and K. Madhava Krishna. <i> In Robotics and Biomimetics (ROBIO), 2017 IEEE International Conference on, pp. 1912-1917. IEEE, 2017. [pdf](https://ieeexplore.ieee.org/document/8324698)</i>
 
-<b>[CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module](https://arxiv.org/abs/1709.10452)</b> <br> <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna
-<i>In Arxiv. </i>
+<b>CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module</b> <br> <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna
+<i>In Arxiv. [pdf](https://arxiv.org/abs/1709.10452) </i>
 
 ## Controls
 
-<b>[A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems](https://www.tandfonline.com/doi/abs/10.1080/17508975.2018.1543179)</b><br>
+<b>A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems. </b><br>
 Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian Kohler, and Rajan Rawal
-<i>Intelligent Buildings International (2018): 1-30. </i>
+<i>Intelligent Buildings International (2018): 1-30. [pdf](https://www.tandfonline.com/doi/abs/10.1080/17508975.2018.1543179)</i>
 
 
-<b>[Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System](https://ieeexplore.ieee.org/document/7839149)</b><br>
-<b>Sachdeva, Enna</b>, Pratik Porwal, Nalini Vidyulatha, and Rahul Shrestha. <i>In India Conference (INDICON), 2016 IEEE Annual, pp. 1-6. IEEE, 2016. </i>
+<b>Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System. </b><br>
+<b>Sachdeva, Enna</b>, Pratik Porwal, Nalini Vidyulatha, and Rahul Shrestha. <i>In India Conference (INDICON), 2016 IEEE Annual, pp. 1-6. IEEE, 2016. [pdf](https://ieeexplore.ieee.org/document/7839149)</i>
 
 ## Security
 
-<b>[Improving method of correcting AES keys obtained from cold boot attack](https://ieeexplore.ieee.org/document/7226024)</b><br>
-<b>Sachdeva, Enna</b>, S. P. Mishra. <i>In Electrical, Computer and Communication Technologies (ICECCT), 2015 IEEE International Conference on, pp. 1-8. IEEE, 2015. </i>
+<b>Improving method of correcting AES keys obtained from cold boot attack. </b><br>
+<b>Sachdeva, Enna</b>, S. P. Mishra. <i>In Electrical, Computer and Communication Technologies (ICECCT), 2015 IEEE International Conference on, pp. 1-8. IEEE, 2015. [pdf](https://ieeexplore.ieee.org/document/7226024)</i>
 
 
 
