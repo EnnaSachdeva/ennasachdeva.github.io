@@ -7,7 +7,7 @@ author_profile: true
 ## Robotics
 
 <b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
-A Singh, V Rodrigues, <b>E Sachdeva</b>,S Hanisha, Yaoming Zhu, M Krishna.
+A Singh, V Rodrigues, <b>E Sachdeva</b>, S Hanisha, Yaoming Zhu, M Krishna.
 <i>In Robotics: Science and Systems -2018 (workshop). [pdf](https://arxiv.org/pdf/1806.00765.pdf) </i>
 
 <b>COCrIP: Compliant OmniCrawler In-Pipeline Robot</b> <br>
