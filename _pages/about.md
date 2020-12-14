@@ -18,6 +18,7 @@ redirect_from:
 * I recently completed Master of Science in Robotics from [Oregon State University](https://robotics.oregonstate.edu/) under the supervision of [ Prof. Kagan Tumer](http://web.engr.oregonstate.edu/~ktumer/). A few of the key research areas I worked on includes addressing structiral credit assignment problem in multiagent coordination tasks with sparse binary team rewards, and improving temporal . 
 * Prior to that, I obtained an MS in Electronics and Computer Engineering, with major in Robotics from [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/), and a Bachelor’s Degree in Electronics and Communication Engineering from [YMCA University of Science and Technology](http://www.ymcaust.ac.in/).
 * My research interests span Explainable AI, Multiagent systems, and Robotics. I'm very open to research discussions and collaboration. Please feel free to get in touch!
+Email: sachdeve@oregonstate.edu
 
 ## Research Interests
 * Graph Neural Networks
