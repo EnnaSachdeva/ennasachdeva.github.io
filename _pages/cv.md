@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+
+
+* Sept 2020-Dec 2020: Research Intern
+  * Honda Research Institute
+  
+
 * December 2018-Present: Graduate Research Assistant
   * Oregon State University
   * Supervisor: Professor Kagan Tumer
