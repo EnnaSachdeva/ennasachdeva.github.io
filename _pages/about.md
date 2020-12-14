@@ -25,6 +25,8 @@ redirect_from:
 * Explainable AI
 * Multiagent Systems
 * Deep Reinforcement learning
+* Motion Planning
+* Multirobot Coordination
 * Robot Decision Making
 
 
