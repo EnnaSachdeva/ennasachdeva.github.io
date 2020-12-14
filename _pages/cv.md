@@ -18,16 +18,12 @@ Education
 Work experience
 ======
 
-
 * Sept 2020-Dec 2020: Research Intern
   * Honda Research Institute
   
-
-* December 2018-Present: Graduate Research Assistant
+* Janurary 2019-June 2020: Graduate Research Assistant
   * Oregon State University
   * Supervisor: Professor Kagan Tumer
-
-
 
 * 2016-2018: Graduate Research Assistant
   * International Institute of Information Technology, Hyderabad
@@ -36,14 +32,11 @@ Work experience
 * 2014-2015: Electronics Engineer
   * Havells India Limited
   
-Interests
+Skills
 ======
-* Robotics
-  * Motion Planning 
-  * Multirobot Coordination
-  * Dynamics and Controls
-* Aritificial Intelligence in General
-  * Reinforcement Learning 
-  * Deep Learning
-  * Multiagent Systems
-
+* Python
+* C++
+* Pytorch
+* Tensorflow
+* MATLAB
+* Robot Operating System
