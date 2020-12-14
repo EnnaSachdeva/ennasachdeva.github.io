@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Robotics
-
 <b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>, S Hanisha, Yaoming Zhu, M Krishna.
 <i>In Robotics: Science and Systems -2018 (workshop). [pdf](https://arxiv.org/pdf/1806.00765.pdf) </i>
@@ -18,8 +16,6 @@ Singh, Akash, <b>E Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <i> In
 <b>CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module</b> <br> <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna
 <i>In Arxiv. [pdf](https://arxiv.org/abs/1709.10452) </i>
 
-## Controls
-
 <b>A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems. </b><br>
 Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian Kohler, and Rajan Rawal
 <i>Intelligent Buildings International (2018): 1-30. [pdf](https://www.tandfonline.com/doi/abs/10.1080/17508975.2018.1543179)</i>
@@ -27,8 +23,6 @@ Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian K
 
 <b>Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System. </b><br>
 <b>Sachdeva, Enna</b>, Pratik Porwal, Nalini Vidyulatha, and Rahul Shrestha. <i>In India Conference (INDICON), 2016 IEEE Annual, pp. 1-6. IEEE, 2016. [pdf](https://ieeexplore.ieee.org/document/7839149)</i>
-
-## Security
 
 <b>Improving method of correcting AES keys obtained from cold boot attack. </b><br>
 <b>Sachdeva, Enna</b>, S. P. Mishra. <i>In Electrical, Computer and Communication Technologies (ICECCT), 2015 IEEE International Conference on, pp. 1-8. IEEE, 2015. [pdf](https://ieeexplore.ieee.org/document/7226024)</i>
