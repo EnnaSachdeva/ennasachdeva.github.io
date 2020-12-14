@@ -21,6 +21,9 @@ Work experience
 * Sept 2020-Dec 2020: Research Intern
   * Honda Research Institute
   
+* July 2020-August 2020: Software Intern
+  * CodeDay Labs
+  
 * Janurary 2019-June 2020: Graduate Research Assistant
   * Oregon State University
   * Supervisor: Professor Kagan Tumer
