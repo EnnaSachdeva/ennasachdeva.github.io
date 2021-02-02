@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <b> Multiagent Learning via Dynamic Skill Selection </b> <br>
+<b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer
+<i>20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021), Extended Abstract. </i>
+
+<b> Multiagent Learning via Dynamic Skill Selection </b> <br>
 <b>E Sachdeva</b>
 <i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/44558m99c?locale=en) </i>
 
