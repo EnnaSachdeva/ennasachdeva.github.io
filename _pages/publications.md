@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b> Multiagent Learning via Dynamic Skill Selection </b> <br>
+<b>E Sachdeva</b>
+<i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/44558m99c?locale=en) </i>
+
 <b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>, S Hanisha, Yaoming Zhu, M Krishna.
 <i>In Robotics: Science and Systems -2018 (workshop). [pdf](https://arxiv.org/pdf/1806.00765.pdf) </i>
