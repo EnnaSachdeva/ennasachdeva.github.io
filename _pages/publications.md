@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b> Multiagent Learning via Dynamic Skill Selection </b> <br>
+<b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer
 <i>20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021), Extended Abstract. </i>
 
