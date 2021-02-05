@@ -1,8 +1,12 @@
 ---
-title: "Publications [(Google Scholar)](https://scholar.google.com/citations?user=QIZZA0oAAAAJhl=enoi=ao)"
+title: "Conference Publications [(Google Scholar)](https://scholar.google.com/citations?user=QIZZA0oAAAAJhl=enoi=ao)"
 permalink: /publications/
 author_profile: true
 ---
+
+<b> Multiagent Evolution via Dynamic Skill Selection </b> <br>
+<b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
+<i> Genetic and Evolutionary Computation Conference (GECCO-2021), Under review. </i>
 
 <b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
