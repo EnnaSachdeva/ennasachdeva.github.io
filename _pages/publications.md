@@ -14,7 +14,7 @@ author_profile: true
 
 <b> Multiagent Learning via Dynamic Skill Selection </b> <br>
 <b>E Sachdeva</b>,
-<i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/44558m99c?locale=en) </i>
+<i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en) </i>
 
 <b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>, S Hanisha, Yaoming Zhu, M Krishna.
