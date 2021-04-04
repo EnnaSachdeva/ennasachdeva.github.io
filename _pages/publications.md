@@ -8,13 +8,14 @@ author_profile: true
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
 <i> Genetic and Evolutionary Computation Conference (GECCO-2021). </i>
 
-<b> Multiagent Learning via Dynamic Skill Selection </b> <br>
-<b>E Sachdeva</b>,
-<i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en) </i>
-
 <b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
 <i>20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021), Extended Abstract. </i>
+
+
+<b> Multiagent Learning via Dynamic Skill Selection </b> <br>
+<b>E Sachdeva</b>,
+<i>Masters Thesis. [pdf](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en) </i>
 
 <b> Novel Legged-Omni Crawler to Wheel Transforming Module </b> <br>
 A Singh, V Rodrigues, <b>E Sachdeva</b>, S Hanisha, Yaoming Zhu, M Krishna.
