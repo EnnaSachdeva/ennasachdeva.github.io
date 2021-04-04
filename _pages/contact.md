@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Collaborative Robotics and Intelligent Systems Institute, Oregon State University<br>
-Corvallis- 97331<br>
-Email: sachdeve@regonstate.edu
+Honda Research Institute<br>
+San Jose- 95134<br>
+Email: esachdeva@honda-ri.com, ennasachdeva@gmail.com
