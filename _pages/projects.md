@@ -15,7 +15,7 @@ author_profile: true
 
 <a href="https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en
 " target="_blank"><img src="../files/MADS_arch"
-alt="Video" width="240" height="180" border="10" /> Video </a>
+alt="Masters Thesis" width="240" height="180" border="10" /></a>
 
 Learning in tightly coupled multiagent settings with sparse rewards
 is challenging because multiple agents must reach the goal state
