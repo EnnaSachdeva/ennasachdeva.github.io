@@ -14,7 +14,7 @@ author_profile: true
 [code](https://github.com/EnnaSachdeva/MADyS)<br />
 
 <a href="https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en
-" target="_blank"><img src="../files/MADS_arch"
+" target="_blank"><img src="../files/MADS_arch.png"
 alt="Masters Thesis" width="240" height="180" border="10" /></a>
 
 Learning in tightly coupled multiagent settings with sparse rewards
