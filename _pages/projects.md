@@ -30,7 +30,8 @@ to optimize the sparse team objective by recruiting the most optimal
 skill at any given time. This eliminates the need to generate a single
 dense reward via reward shaping or other mixing functions. In environments with both spatial and temporal coupling requirements,
 we outperform prior methods and provides intuitive visualizations
-of its skill switching strategy
+of its skill switching strategy.
+
 ## Resume Classification
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
