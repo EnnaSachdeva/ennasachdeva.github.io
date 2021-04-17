@@ -13,8 +13,8 @@ author_profile: true
 
 [code](https://github.com/EnnaSachdeva/MADyS)<br />
 
-<a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0
-" target="_blank"><img src="../files/CodeDay_labs_ppt_1.png"
+<a href="https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en
+" target="_blank"><img src="../files/MADS_arch"
 alt="Video" width="240" height="180" border="10" /> Video </a>
 
 Learning in tightly coupled multiagent settings with sparse rewards
