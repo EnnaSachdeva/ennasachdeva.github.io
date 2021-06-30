@@ -18,6 +18,9 @@ Education
 Work experience
 ======
 
+* March 2021-Present: Research Engineer
+  * Honda Research Institute
+  
 * Sept 2020-Dec 2020: Research Intern
   * Honda Research Institute
   
