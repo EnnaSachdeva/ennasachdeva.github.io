@@ -13,9 +13,12 @@ author_profile: true
 
 [code](https://github.com/EnnaSachdeva/MADyS)<br />
 
-<a href="https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en
+[Master's Thesis](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en)<br />
+
+<a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png"
-alt="Masters Thesis" width="240" height="180" border="10" />Master's Thesis</a>
+alt="Video" width="240" height="180" border="10" /> Video </a>
+
 
 Learning in tightly coupled multiagent settings with sparse rewards
 is challenging because multiple agents must reach the goal state
