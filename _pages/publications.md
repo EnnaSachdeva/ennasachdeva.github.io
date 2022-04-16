@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-conditioned Interactive Trajectory Prediction </b> <br>
-Lingfeng Sun*, Chen Tang*, <b>E Sachdeva</b>, Enna Sachdeva, Chiho Choi, Teruhisa Misu, Masayoshi Tomizuka, Wei Zhan
+Lingfeng Sun*, Chen Tang*, <b>E Sachdeva</b>, Chiho Choi, Teruhisa Misu, Masayoshi Tomizuka, Wei Zhan
 <i>Under Review at RA-L and IROS 2022 [pdf](https://arxiv.org/pdf/2203.15112.pdf)</i>
 
 <b> Toward an Adaptive Situational Awareness Support System for Urban Driving </b> <br>
