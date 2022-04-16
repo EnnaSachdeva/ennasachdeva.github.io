@@ -4,13 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-conditioned Interactive Trajectory Prediction </b> <br>
+Lingfeng Sun*, Chen Tang*, <b>E Sachdeva</b>, Enna Sachdeva, Chiho Choi, Teruhisa Misu, Masayoshi Tomizuka, Wei Zhan
+<i>Under Review at RA-L and IROS 2022</i>
+
+<b> Toward an Adaptive Situational Awareness Support System for Urban Driving </b> <br>
+Tong Wu*, <b>E Sachdeva</b>, Kumar Akash, Xingwei Wu, Teruhisa Misu, Jorge Ortiz.
+<i>33rd IEEE Intelligent Vehicles Symposium (IV) (IV-2022)</i>
+
 <b> Multiagent Evolution via Dynamic Skill Selection </b> <br>
-<b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
+<b>E Sachdeva*</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
 <i> Genetic and Evolutionary Computation Conference (GECCO-2021). [pdf](https://dl.acm.org/doi/10.1145/3449639.3459387)</i>
 
 
 <b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
-<b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
+<b>E Sachdeva*</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
 <i>20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021), Extended Abstract. [pdf](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) </i>
 
 
