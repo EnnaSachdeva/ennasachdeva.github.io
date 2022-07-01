@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction </b> <br>
-L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan
+L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan.
 <i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) </i>
 
 <b> Toward an Adaptive Situational Awareness Support System for Urban Driving </b> <br>
