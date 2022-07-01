@@ -10,7 +10,7 @@ L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan
 
 <b> Toward an Adaptive Situational Awareness Support System for Urban Driving </b> <br>
 Tong Wu, <b>E Sachdeva</b>, Kumar Akash, Xingwei Wu, Teruhisa Misu, Jorge Ortiz.
-<i>33rd IEEE Intelligent Vehicles Symposium (IV) (IV-2022)</i>
+<i>33rd IEEE Intelligent Vehicles Symposium (IV-2022)</i>
 
 <b> Multiagent Learning via Dynamic Skill Selection </b> <br>
 <b>E Sachdeva</b>,
