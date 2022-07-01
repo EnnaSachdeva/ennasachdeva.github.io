@@ -6,20 +6,19 @@ author_profile: true
 
 <b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction </b> <br>
 L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan.
-<i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) </i>
+<i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) </i> [pdf](https://arxiv.org/pdf/2203.15112.pdf)
 
 <b> Toward an Adaptive Situational Awareness Support System for Urban Driving </b> <br>
 Tong Wu, <b>E Sachdeva</b>, Kumar Akash, Xingwei Wu, Teruhisa Misu, Jorge Ortiz.
 <i>33rd IEEE Intelligent Vehicles Symposium (IV-2022)</i>
 
 <b> Multiagent Learning via Dynamic Skill Selection </b> <br>
-<b>E Sachdeva</b>,
+<b>E Sachdeva</b>.
 <i>Masters Thesis [pdf](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en) </i>
 
 <b> Multiagent Evolution via Dynamic Skill Selection </b> <br>
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
 <i> Genetic and Evolutionary Computation Conference (GECCO-2021) [pdf](https://dl.acm.org/doi/10.1145/3449639.3459387)</i>
-
 
 <b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
 <b>E Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
