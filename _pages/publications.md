@@ -5,7 +5,7 @@ author_profile: true
 ---
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
 <b>E Sachdeva</b>, C Choi.
-<i>To appear in IEEE Robotics and Automation Letters (RA-L) [pdf](https://arxiv.org/pdf/2203.15112.pdf) </i>
+<i>To appear in IEEE Robotics and Automation Letters (RA-L) [pdf](https://arxiv.org/pdf/2208.10592.pdf) </i>
 
 <b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction </b> <br>
 L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan.
