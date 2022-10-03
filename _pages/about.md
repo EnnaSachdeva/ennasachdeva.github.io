@@ -47,5 +47,5 @@ Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail
 * ICRA-2023
 * NEURIPS-2022
 * ICMLA-2022
-* Robotics and Automation Letters
+* Robotics and Automation Letters (RAL)
 
