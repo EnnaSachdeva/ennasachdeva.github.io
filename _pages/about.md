@@ -33,4 +33,6 @@ Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail
 * Multirobot Coordination
 * Robot Decision Making
 
+## News
+ <li><i class="icofont-rounded"></i>08/2022: One paper on interpretable trajectory prediction accepted at Robotics and Automation Letters !</a>!</li>
 
