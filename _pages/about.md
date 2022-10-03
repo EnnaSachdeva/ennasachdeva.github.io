@@ -35,9 +35,7 @@ Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail
 
 ## News
 
- <li><i class="icofont-rounded"></i>08/2022: One paper on [interpretable interactive agents' prediction](https://ieeexplore.ieee.org/document/9894686) accepted at Robotics and Automation Letters (RAL). </li>
-
- <li><i class="icofont-rounded"></i>08/2022: One paper on [interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) accepted at IROS-2022. </li>
-  
-   <li><i class="icofont-rounded"></i>08/2022: One paper on [Driver's Adaptive Situational Awareness](https://ieeexplore.ieee.org/document/9894686) accepted at Intelligent Vehicles (IV) 2022. </li>
+* 08/2022: One paper on [interpretable interactive agents' prediction](https://ieeexplore.ieee.org/document/9894686) accepted at Robotics and Automation Letters (RAL).
+* 06/2022: One paper on [interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) accepted at IROS-2022. 
+* 04/2022: One paper on [Driver's Adaptive Situational Awareness](https://ieeexplore.ieee.org/document/9894686) accepted at Intelligent Vehicles (IV) 2022. 
   
