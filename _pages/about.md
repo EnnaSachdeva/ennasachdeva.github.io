@@ -39,6 +39,6 @@ Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail
 * 06/2022: One paper on [interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) is accepted at IROS-2022. 
 * 04/2022: One paper on [Driver's Adaptive Situational Awareness](https://ieeexplore.ieee.org/document/9894686) is accepted at Intelligent Vehicles (IV) 2022. 
 * 03/2021: I joined Honda Research Institute USA, Inc. as a Machine Learning Research Engineer. 
-* 03/2021: One paper on [Multiagent Coordination] (https://dl.acm.org/doi/10.1145/3449639.3459387) is accepted at GECCO-2021. 
-* 12/2020: One Extended Abstract on [Multiagent Coordination] (https://dl.acm.org/doi/10.1145/3449639.3459387](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) is accepted at GECCO-2021. 
+* 03/2021: One paper on [Multiagent Coordination](https://dl.acm.org/doi/10.1145/3449639.3459387) is accepted at GECCO-2021. 
+* 12/2020: One Extended Abstract on [Multiagent Coordination](https://dl.acm.org/doi/10.1145/3449639.3459387](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) is accepted at AAMAS-2021. 
 
