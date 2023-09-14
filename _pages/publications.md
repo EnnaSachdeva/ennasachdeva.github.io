@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
-<b>Enna Sachdeva</b>*, Nakul Agarwal*, Suhas Chundi, Sean Roelofs, Jiachen Li, Behzad Dariush, Chiho Choi, Mykel Kochenderfer.
+<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Behzad Dariush, Chiho Choi, Mykel Kochenderfer.
 <i>Under review [pdf](https://arxiv.org/abs/2309.06597) </i>
 
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
