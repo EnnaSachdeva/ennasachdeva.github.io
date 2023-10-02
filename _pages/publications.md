@@ -8,7 +8,7 @@ author_profile: true
 <i>Under review [pdf](https://arxiv.org/abs/2309.06597) </i>
 
 <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
-Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva\*</b>, Nakul Agarwal, Mykel Kochenderfer.
+Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer.
 <i>Under review </i>
 
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
