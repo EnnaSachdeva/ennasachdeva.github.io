@@ -3,13 +3,17 @@ title: "Publications [Google Scholar](https://scholar.google.com/citations?user=
 permalink: /publications/
 author_profile: true
 ---
-<b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
-<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Behzad Dariush, Chiho Choi, Mykel Kochenderfer.
-<i>Under review [pdf](https://arxiv.org/abs/2309.06597) </i>
-
 <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
 Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer.
 <i>Under review </i>
+
+<b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
+Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush
+<i>Under review </i>
+
+<b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
+<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Behzad Dariush, Chiho Choi, Mykel Kochenderfer.
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024) [pdf](https://arxiv.org/abs/2309.06597) </i>
 
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
 <b>Enna Sachdeva</b>, C Choi.
