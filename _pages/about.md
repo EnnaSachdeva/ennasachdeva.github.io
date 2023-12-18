@@ -22,9 +22,11 @@ redirect_from:
 Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail.com](ennasachdeva@gmail.com)
 
 ## News
-* 05/2023: One paper on [interpretable interactive agents' prediction](https://ieeexplore.ieee.org/document/9894686) presented at ICRA-2023 [video](https://www.youtube.com/watch?v=tq-yprh-AGY) 
-* 08/2022: One paper on [interpretable interactive agents' prediction](https://ieeexplore.ieee.org/document/9894686) accepted at Robotics and Automation Letters (RAL)
-* 06/2022: One paper on [interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) accepted at IROS-2022
+* 11/2023: One paper on interpretable motion prediction accepted at Robotics and Automation Letters (RAL)
+* 10/2023: One paper on [multimodal driving dataset] (https://arxiv.org/abs/2309.06597) accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
+* 05/2023: One paper on [discovering interpretable relations](https://ieeexplore.ieee.org/document/9894686) presented at ICRA-2023 [video](https://www.youtube.com/watch?v=tq-yprh-AGY) 
+* 08/2022: One paper on [discovering interpretable relations](https://ieeexplore.ieee.org/document/9894686) accepted at Robotics and Automation Letters (RAL)
+* 06/2022: One paper on [goal conditioned interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) accepted at IROS-2022
 * 04/2022: One paper on [Driver's Adaptive Situational Awareness](https://ieeexplore.ieee.org/document/9894686) accepted at Intelligent Vehicles (IV) 2022
 * 03/2021: I joined Honda Research Institute USA, Inc. as a Machine Learning Research Engineer 
 * 03/2021: One paper on [Multiagent Coordination](https://dl.acm.org/doi/10.1145/3449639.3459387) is accepted at GECCO-2021
