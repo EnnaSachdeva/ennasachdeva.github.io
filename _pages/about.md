@@ -23,7 +23,7 @@ Email: [enna_sachdeva@honda-ri.com](esachdeva@honda-ri.com); [ennasachdeva@gmail
 
 ## News
 * 11/2023: One paper on interpretable motion prediction accepted at Robotics and Automation Letters (RAL)
-* 10/2023: One paper on [multimodal driving dataset] (https://arxiv.org/abs/2309.06597) accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
+* 10/2023: One paper on [multimodal driving dataset](https://arxiv.org/abs/2309.06597) accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
 * 05/2023: One paper on [discovering interpretable relations](https://ieeexplore.ieee.org/document/9894686) presented at ICRA-2023 [video](https://www.youtube.com/watch?v=tq-yprh-AGY) 
 * 08/2022: One paper on [discovering interpretable relations](https://ieeexplore.ieee.org/document/9894686) accepted at Robotics and Automation Letters (RAL)
 * 06/2022: One paper on [goal conditioned interpretable trajectory prediction](https://arxiv.org/pdf/2203.15112.pdf) accepted at IROS-2022
