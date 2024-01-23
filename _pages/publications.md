@@ -13,7 +13,7 @@ Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel K
 
 <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
 <b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush.
-<i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024) [pdf](https://arxiv.org/abs/2309.06597) </i>
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024) [pdf](https://arxiv.org/abs/2309.06597) [video](https://www.youtube.com/watch?v=a0MX3llh7bk&t=17s)</i>
 
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
 <b>Enna Sachdeva</b>, C Choi.
