@@ -17,7 +17,7 @@ Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel K
 
 <b> DIDER: Discovering Interpretable Dynamically Evolving Relations </b> <br>
 <b>Enna Sachdeva</b>, C Choi.
-<i>IEEE Robotics and Automation Letters (RA-L) [pdf](https://ieeexplore.ieee.org/document/9894686) </i>
+<i>IEEE Robotics and Automation Letters (RA-L) [pdf](https://ieeexplore.ieee.org/document/9894686) [video](https://www.youtube.com/watch?v=tq-yprh-AGY&t=2s)</i>
 
 <b> Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction </b> <br>
 L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan.
@@ -33,7 +33,7 @@ Tong Wu, <b>Enna Sachdeva</b>, Kumar Akash, Xingwei Wu, Teruhisa Misu, Jorge Ort
 
 <b> Multiagent Evolution via Dynamic Skill Selection </b> <br>
 <b>Enna Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
-<i> Genetic and Evolutionary Computation Conference (GECCO-2021) [pdf](https://dl.acm.org/doi/10.1145/3449639.3459387)</i>
+<i> Genetic and Evolutionary Computation Conference (GECCO-2021) [pdf](https://dl.acm.org/doi/10.1145/3449639.3459387) [video](https://www.youtube.com/watch?v=0JOnadsTUCU)</i>
 
 <b> Dynamic Skill Selection for Learning Joint Actions </b> <br>
 <b>Enna Sachdeva</b>, Shauharda Khadka, Somdeb Majumdar, Kagan Tumer.
