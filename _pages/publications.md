@@ -9,7 +9,7 @@ Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
 
 <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
 Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer.
-<i>IEEE Robotics and Automation Letters (RA-L) </i>
+<i>IEEE Robotics and Automation Letters (RA-L) [pdf](https://arxiv.org/pdf/2401.03599) </i>
 
 <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
 <b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush.
