@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
-Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush
+Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
 <i>2024 International Conference on Robotics and Automation </i>
 
 <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
