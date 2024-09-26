@@ -5,7 +5,7 @@ author_profile: true
 ---
 <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data </b> <br>
 Seunggeun Chi, Pin-Hao Huang, <b>Enna Sachdeva</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee.
-<i>Accepted at Thirty-Eighth Annual Conference on Neural Information Processing Systems (NEURIPS 2024) </i>
+<i>Accepted at Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) </i>
 
 <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
 Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
