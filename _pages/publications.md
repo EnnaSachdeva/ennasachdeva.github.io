@@ -12,7 +12,7 @@ Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani,
 
 <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
 Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
-<i>2024 International Conference on Robotics and Automation (ICRA 2024) </i>
+<i>2024 International Conference on Robotics and Automation (ICRA 2024) [pdf](https://ieeexplore.ieee.org/document/10611250)</i> 
 
 <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
 Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer.
