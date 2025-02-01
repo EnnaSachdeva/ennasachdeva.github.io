@@ -8,7 +8,7 @@ Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, 
 
 <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data </b> <br>
 Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee.
-<i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [pdf](https://arxiv.org/pdf/2411.03561)</i>
+<i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [pdf](https://neurips.cc/virtual/2024/poster/95535)</i>
 
 <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
 Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
