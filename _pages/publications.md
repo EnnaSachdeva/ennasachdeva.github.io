@@ -3,7 +3,7 @@ title: "Publications [Google Scholar](https://scholar.google.com/citations?user=
 permalink: /publications/
 author_profile: true
 ---
-<b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b> <br>
+<b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks </b> <br>
 Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. Accepted at <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) </i>
 
 <b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b> <br>
