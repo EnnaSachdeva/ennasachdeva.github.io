@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks </b> <br>
-Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. Accepted at <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) </i>
+Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. Accepted at <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) [pdf](https://arxiv.org/pdf/2503.06514)</i>
 
 <b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b> <br>
 Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, Kwonjoon Lee, Sangjae Bae. <i>2025 International Conference on Robotics and Automation (ICRA 2025) [pdf](https://arxiv.org/pdf/2501.16539)</i>
