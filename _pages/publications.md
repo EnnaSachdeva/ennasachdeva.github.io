@@ -3,6 +3,9 @@ title: "Publications [Google Scholar](https://scholar.google.com/citations?user=
 permalink: /publications/
 author_profile: true
 ---
+<b> Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting </b> <br>
+Seunggeun Chi, Pin-Hao Huang, <b>Enna Sachdeva</b>, Kwonjoon Lee. Accepted at <i>International Conference on Computer Vision (ICCV 2025) </i>
+
 <b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks </b> <br>
 Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. Accepted at <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) [pdf](https://arxiv.org/pdf/2503.06514) [webpage](https://mk322.github.io/gflowvlm/)</i>
 
