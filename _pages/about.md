@@ -36,17 +36,12 @@ Email: [enna_sachdeva@honda-ri.com](enna_sachdeva@honda-ri.com); [ennasachdeva@g
 * 12/2020: One Extended Abstract on [Multiagent Coordination](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) is accepted at AAMAS-2021
 
 ## Conference Reviewer
-* NeurIPS, CVPR, WACV, CoRL, IV, ICRA, ICMLA, RAL, ROMAN
+* NeurIPS, CVPR, WACV, ICCV, AAAI, ICLR, CoRL, IV, ICRA, ICMLA, RAL, ROMAN
 
 ## Research Interests
-* Graph Neural Networks
-* Relational Reasoning
+* Multimodal LLMs
+* Embodied AI
 * Explainable AI
 * Multiagent Systems
-* Computer Vision
-* Natural Language Processing
-* Deep Reinforcement learning
-* Motion Planning
-* Multirobot Coordination
-* Robot Decision Making
+
 
