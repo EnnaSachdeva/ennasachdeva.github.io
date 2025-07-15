@@ -21,10 +21,10 @@ redirect_from:
 Email: [enna_sachdeva@honda-ri.com](enna_sachdeva@honda-ri.com); [ennasachdeva@gmail.com](ennasachdeva@gmail.com)
 
 ## News
-* 06/2025: One paper on multi-step reasoning in Vision Language models with GFlowNets accepted at CVPR 2025 [pdf] (https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)
-* 01/2025: One paper on mission planning for multi-robot teams using LLMs accepted at ICRA 2025 [pdf] (https://arxiv.org/pdf/2501.16539)
-* 09/2024: One paper on body pose estimation from egocentric video accepted at NeurIPS 2025 [pdf] (https://proceedings.neurips.cc/paper_files/paper/2024/file/633b0e871a48d542280c3ad03928e60d-Paper-Conference.pdf) 
-* 01/2024: One paper on optimal driver warning generation accepted at ICRA 2024 [pdf] (https://ieeexplore.ieee.org/abstract/document/10611250) 
+* 06/2025: One paper on multi-step reasoning in Vision Language models with GFlowNets accepted at CVPR 2025 [pdf](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)
+* 01/2025: One paper on mission planning for multi-robot teams using LLMs accepted at ICRA 2025 [pdf](https://arxiv.org/pdf/2501.16539)
+* 09/2024: One paper on body pose estimation from egocentric video accepted at NeurIPS 2025 [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/633b0e871a48d542280c3ad03928e60d-Paper-Conference.pdf) 
+* 01/2024: One paper on optimal driver warning generation accepted at ICRA 2024 [pdf](https://ieeexplore.ieee.org/abstract/document/10611250) 
 * 11/2023: One paper on interpretable motion prediction accepted at Robotics and Automation Letters (RAL) [pdf](https://ieeexplore.ieee.org/abstract/document/10356778)
 * 10/2023: One paper on [multimodal driving dataset](https://arxiv.org/abs/2309.06597) accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
 * 05/2023: One paper on [discovering interpretable relations](https://ieeexplore.ieee.org/document/9894686) presented at ICRA-2023 [video](https://www.youtube.com/watch?v=tq-yprh-AGY) 
