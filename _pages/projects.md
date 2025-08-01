@@ -10,7 +10,7 @@ author_profile: true
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
 
-[code](https://github.com/EnnaSachdeva/MADyS) <a href="https://www.youtube.com/watch?v=viH08VrIIA8
+[Code](https://github.com/EnnaSachdeva/MADyS) <a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png" alt="Video" width="240" height="180" border="10" /> Video </a> <br />
 
 Learning in tightly coupled multiagent settings with sparse rewards is challenging because multiple agents must reach the goal state simultaneously for the team to receive a reward. This is even more challenging under temporal coupling constraints - where agents need to sequentially complete different components of a task in a particular order. Here, a single local reward is inadequate for learning an effective policy. We introduce MADyS, Multiagent Learning via Dynamic Skill Selection, a bi-level optimization framework that learns to dynamically switch between multiple local skills to optimize sparse team objectives. MADyS adopts fast policy gradients to learn local skills using local rewards and an evolutionary algorithm to optimize the sparse team objective by recruiting the most optimal skill at any given time. This eliminates the need to generate a single
@@ -20,7 +20,7 @@ dense reward via reward shaping or other mixing functions. In environments with 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
-[code](https://github.com/EnnaSachdeva/Resume-Screener) <a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0 " target="_blank"><img src="../files/CodeDay_labs_ppt_1.png" alt="Video" width="240" height="180" border="10" /> Video </a>
+[Code](https://github.com/EnnaSachdeva/Resume-Screener) <a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0 " target="_blank"><img src="../files/CodeDay_labs_ppt_1.png" alt="Video" width="240" height="180" border="10" /> Video </a>
 
 In this project, we aim to classify a resume for a specific role. We trained an LSTM model. The data is cleaned and pre-processed using NLTK and Keras, to eliminate stop words, and tokenize the words. We used a resume dataset from Kaggle (https://www.kaggle.com/dhainjeamita/resume-classification), which consists of 1000 resumes with 25 different categories. We achieved a validation accuracy of 99% with our trained model. We further deploy the model on an https server to screen any resume which is input by a user, and shows the top 5 categories, for which that resume seems to fit the best. 
 
@@ -43,7 +43,7 @@ on the floor and will gather occupancy data on an hourly basis. Initial simulati
 sim-to-real implementation are done on a Pioneer-P3DX robot retrofitted with a Xbox 360 Kinect sensor and a webcam.
 
 ### Autoencoders to enhance Multiagent Coordination in a Tightly-Coupled Domain
-[code](https://github.com/EnnaSachdeva/D_VAE) [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
+[Code](https://github.com/EnnaSachdeva/D_VAE) [Report](https://github.com/EnnaSachdeva/D_VAE/blob/master/Project_report.pdf)<br />
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmVGEEDoO_A&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q1Kl0wrkQd0&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=5hfmW056Sys&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
@@ -58,12 +58,12 @@ Deep Reinforcement learning has been shown to address several multi-agent coordi
 Multiagent teams are strong candidates to solve spatially and temporally distributed tasks, as their inherent flexibility and robustness creates a reliable system. In order for a team to solve a real-world task, such as performing remote exploration, individual agents need to be able to reason about the structure of their goal and how to coordinate their actions with the larger team. In this paper, we focus on generating distributed solutions to temporally-coupled sequential tasks, with higher level goal, unknown to the agents. The proposed method uses a hierarchical approach to learn higher level policies by dividing the goal into several reward signals. We demonstrate the effectiveness of this learning paradigm on a partially observable multiagent coordination task where agents need to perform several tasks in an specific, but unknown, series for agents to receive a reward. We further compare the performance of the proposed approach with a Cooperative Coevolutionary algorithms (CCEA) in both sparse and dense reward setting, while performing the sequences of tasks.
     
 ### Recurrent Multiagent Deep Deterministic Policy Gradient with Difference Rewards
-[code](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards) [Report](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards/blob/master/Autonomous_Agents_Project.pdf)<br />
+[Code](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards) [Report](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards/blob/master/Autonomous_Agents_Project.pdf)<br />
 
 Deep Reinforcement Learning (DRL) algorithms have been successfully applied to a range of challenging simulated continuous control single agent tasks. These methods have further been extended to multiagent domains in cooperative, competitive or mixed environments. This paper primarily focuses on multiagent cooperative settings which can be modeled for several real world problems such as coordination of autonomous vehicles and warehouse robots. However, these systems suffer from several challenges such as, structural credit assignment and partial observability. In this paper, we propose Recurrent Multiagent Deep Deterministic Policy Gradient (RMADDPG) algorithm which extends Multiagent Deep Determinisitic Policy Gradient algorithm - MADDPG \cite{lowe2017multi} by using a recurrent neural network for the actor policy. This helps to address partial observability by maintaining a sequence of past observations which networks learn to preserve in order to solve the POMDP. In addition, we use reward shaping through difference rewards to address structural credit assignment in a partially observed environment. We evaluate the performance of MADDPG and R-MADDPG with and without reward shaping in a Multiagent Particle Environment. We further show that reward shaped RMADDPG outperforms the baseline algorithm MADDPG in a partially observable environmental setting.
 
 ### COCrIP: Compliant OmniCrawler In-Pipe Climbing Robot
-[code](https://github.com/EnnaSachdeva/IROS-2017-COCrIP-Optimization) [Publication](https://ieeexplore.ieee.org/document/8206446)<br />
+[Code](https://github.com/EnnaSachdeva/IROS-2017-COCrIP-Optimization) [Publication](https://ieeexplore.ieee.org/document/8206446)<br />
 <!-- [Video](https://www.youtube.com/watch?v=Esd47RzzpOU)<br /> -->
 <a href="https://youtu.be/Esd47RzzpOU
 " target="_blank"><img src="http://img.youtube.com/vi/Esd47RzzpOU/0.jpg" 
