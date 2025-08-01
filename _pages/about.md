@@ -18,7 +18,7 @@ I'm a Research Engineer at [Honda Research Institute, USA](https://usa.honda-ri.
 
 ## News
 * 07/2025: One paper on Amodal Completion for Human-Object Interaction accepted at ICCV 2025.
-* 02/2025: One paper on multi-step reasoning in Vision Language models with GFlowNets accepted at CVPR 2025 [pdf](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)
+* 02/2025: One paper on enhancing multi-step reasoning in Vision Language models with GFlowNets accepted at CVPR 2025 [pdf](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)
 * 01/2025: One paper on mission planning for multi-robot teams using LLMs accepted at ICRA 2025 [pdf](https://arxiv.org/pdf/2501.16539)
 * 09/2024: One paper on body pose estimation from egocentric video accepted at NeurIPS 2024 [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/633b0e871a48d542280c3ad03928e60d-Paper-Conference.pdf) 
 * 01/2024: One paper on optimal driver warning generation accepted at ICRA 2024 [pdf](https://ieeexplore.ieee.org/abstract/document/10611250) 
