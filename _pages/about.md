@@ -10,7 +10,7 @@ redirect_from:
 
 <!---
 <p align="center">
-  <img src="https://github.com/EnnaSachdeva/ennasachdeva_roboticist.github.io/blob/master/files/enna_img.png?raw=true" alt="Photo" class="inline"/>
+  <img src="https://github.com/EnnaSachdeva/ennasachdeva.github.io/blob/master/files/Capture.PNG?raw=true" alt="Photo" class="inline"/>
 </p>
 --->
 
