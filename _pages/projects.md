@@ -16,6 +16,7 @@ author_profile: true
 <a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png"
 alt="Video" width="240" height="180" border="10" /> Video </a>
+
 Learning in tightly coupled multiagent settings with sparse rewards
 is challenging because multiple agents must reach the goal state
 simultaneously for the team to receive a reward. This is even more
