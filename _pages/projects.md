@@ -12,6 +12,7 @@ author_profile: true
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
 
 [code](https://github.com/EnnaSachdeva/MADyS) [Master's Thesis](https://ir.library.oregonstate.edu/downloads/gq67jz60h?locale=en)<br />
+
 <a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png"
 alt="Video" width="240" height="180" border="10" /> Video </a>
