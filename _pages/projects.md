@@ -8,7 +8,7 @@ author_profile: true
 ### MADyS: Multiagent Learning via Dynamic Skill Selection
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
- <a href="https://www.youtube.com/watch?v=viH08VrIIA8
+<a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png" alt="Video" width="240" height="180" border="10" /> </a> <br />
 Learning in tightly coupled multiagent settings with sparse rewards is challenging because multiple agents must reach the goal state simultaneously for the team to receive a reward. This is even more challenging under temporal coupling constraints - where agents need to sequentially complete different components of a task in a particular order. Here, a single local reward is inadequate for learning an effective policy. We introduce MADyS, Multiagent Learning via Dynamic Skill Selection, a bi-level optimization framework that learns to dynamically switch between multiple local skills to optimize sparse team objectives. MADyS adopts fast policy gradients to learn local skills using local rewards and an evolutionary algorithm to optimize the sparse team objective by recruiting the most optimal skill at any given time. This eliminates the need to generate a single
 dense reward via reward shaping or other mixing functions. In environments with both spatial and temporal coupling requirements, we outperform prior methods and provides intuitive visualizations of its skill switching strategy. [Code](https://github.com/EnnaSachdeva/MADyS), [Video](https://www.youtube.com/watch?v=viH08VrIIA8)  
@@ -16,7 +16,7 @@ dense reward via reward shaping or other mixing functions. In environments with 
 ### Resume Classification
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kXY4NN7Q3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br /> -->
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
-<a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0 " target="_blank"><img src="../files/CodeDay_labs_ppt_1.png" alt="Video" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=kXY4NN7Q3p0 " target="_blank"><img src="../files/CodeDay_labs_ppt_1.png" alt="Video" width="240" height="180" border="10" /></a> <br />
 In this project, we aim to classify a resume for a specific role. We trained an LSTM model. The data is cleaned and pre-processed using NLTK and Keras, to eliminate stop words, and tokenize the words. We used a resume dataset from Kaggle (https://www.kaggle.com/dhainjeamita/resume-classification), which consists of 1000 resumes with 25 different categories. We achieved a validation accuracy of 99% with our trained model. We further deploy the model on an https server to screen any resume which is input by a user, and shows the top 5 categories, for which that resume seems to fit the best. [Code](https://github.com/EnnaSachdeva/Resume-Screener) 
 
 ### Environment Exploration using Visual Navigation
