@@ -10,7 +10,6 @@ author_profile: true
 <!-- [![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=kXY4NN7Q3p0)-->
  <a href="https://www.youtube.com/watch?v=viH08VrIIA8
 " target="_blank"><img src="../files/MADS_arch.png" alt="Video" width="240" height="180" border="10" /> </a> <br />
-
 Learning in tightly coupled multiagent settings with sparse rewards is challenging because multiple agents must reach the goal state simultaneously for the team to receive a reward. This is even more challenging under temporal coupling constraints - where agents need to sequentially complete different components of a task in a particular order. Here, a single local reward is inadequate for learning an effective policy. We introduce MADyS, Multiagent Learning via Dynamic Skill Selection, a bi-level optimization framework that learns to dynamically switch between multiple local skills to optimize sparse team objectives. MADyS adopts fast policy gradients to learn local skills using local rewards and an evolutionary algorithm to optimize the sparse team objective by recruiting the most optimal skill at any given time. This eliminates the need to generate a single
 dense reward via reward shaping or other mixing functions. In environments with both spatial and temporal coupling requirements, we outperform prior methods and provides intuitive visualizations of its skill switching strategy. [Code](https://github.com/EnnaSachdeva/MADyS), [Video](https://www.youtube.com/watch?v=viH08VrIIA8)  
 
@@ -63,7 +62,7 @@ This presents a modular in-pipeline climbing robot with a novel compliant foldab
 <!--  [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)<br /> -->
 <a href="https://youtu.be/XvvHkCk2Ns4
 " target="_blank"><img src="../files/cobraso.png" 
-alt="Video" width="240" height="180" border="10" /> Video </a>
+alt="Video" width="240" height="180" border="10" /></a>
 
 This paper presents a novel design of an Omnidirectional bendable Omnicrawler module. Compared to conventional crawlers, OmniCrawler module possesses an extra degree of freedom for sideways rolling motion, and the circular crosssection of the module enables holonomic motion of the robot. These advantages are further enhanced by the introduction of Omnidirectional joint with-in the module, which is the key contribution of this paper. This achieves high maneuverability and adaptability of the OmniCrawler module on an uneven surface. The Omni-directional bending is realized by means of two mechanisms: a Telescopic screw drive mechanism, and an arrangement of two independent 1-DOF joints aligned at 90? with respect to each other. The hybrid soft-rigid structure of the module provides compliant pathways for lug-chain assembly which allows crawling motion even in the bent configuration of the module. We show that the unique modular design unveils its versatility in terms of achieving compliance on an uneven surface, demonstrating its applications in different robotic platforms, such as an in-pipeline robot, Quadruped, snake robot, and exhibiting hybrid locomotive traits in various configurations of the robots with the help of simulations and experiments results on real robot prototype. [Publication](https://arxiv.org/abs/1709.10452), [Video](https://www.youtube.com/watch?v=XvvHkCk2Ns4)
 
