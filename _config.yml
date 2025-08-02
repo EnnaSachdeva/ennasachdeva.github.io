@@ -223,6 +223,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _teaching
   - scope:
@@ -239,6 +240,7 @@ defaults:
       type: publications
     values:
       layout: single
+      classes: wide
       author_profile: true
       share: true
       comments: true
