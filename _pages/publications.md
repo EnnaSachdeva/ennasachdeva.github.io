@@ -3,24 +3,17 @@ title: "[Google Scholar](https://scholar.google.com/citations?user=QIZZA0oAAAAJ&
 permalink: /publications/
 author_profile: true
 ---
-Seunggeun Chi, Pin-Hao Huang, <b>Enna Sachdeva</b>, Kwonjoon Lee. </b> Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting</b>, Accepted at <i>International Conference on Computer Vision (ICCV 2025).</i>
+Seunggeun Chi, Pin-Hao Huang, <b>Enna Sachdeva</b>, Kwonjoon Lee. <b> Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting</b>, Accepted at <i>International Conference on Computer Vision (ICCV 2025).</i>
 
-Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. <b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks</b>. <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) [pdf](https://arxiv.org/pdf/2503.06514) [webpage](https://mk322.github.io/gflowvlm/)</i>
+Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. <b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks</b>, <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025) [pdf](https://arxiv.org/pdf/2503.06514) [webpage](https://mk322.github.io/gflowvlm/)</i>
 
-<b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b> <br>
-Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, Kwonjoon Lee, Sangjae Bae. <i>2025 International Conference on Robotics and Automation (ICRA 2025) [pdf](https://arxiv.org/pdf/2501.16539)</i>
+Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, Kwonjoon Lee, Sangjae Bae. <b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b, <i>2025 International Conference on Robotics and Automation (ICRA 2025) [pdf](https://arxiv.org/pdf/2501.16539)</i>
 
-<b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data </b> <br>
-Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee.
-<i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [pdf](https://neurips.cc/virtual/2024/poster/95535)</i>
+Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee. <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data </b>, <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) [pdf](https://neurips.cc/virtual/2024/poster/95535)</i>
 
-<b> Optimal Driver Warning Generation in Dynamic Driving Environment </b> <br>
-Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush.
-<i>2024 International Conference on Robotics and Automation (ICRA 2024) [pdf](https://ieeexplore.ieee.org/document/10611250)</i> 
+Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush. <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b>, <i>2024 International Conference on Robotics and Automation (ICRA 2024) [pdf](https://ieeexplore.ieee.org/document/10611250)</i> 
 
-<b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b> <br>
-Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer.
-<i>IEEE Robotics and Automation Letters (RA-L) [pdf](https://arxiv.org/pdf/2401.03599) </i>
+Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer. <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b>, <i>IEEE Robotics and Automation Letters (RA-L) [pdf](https://arxiv.org/pdf/2401.03599) </i>
 
 <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b> <br>
 <b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush.
