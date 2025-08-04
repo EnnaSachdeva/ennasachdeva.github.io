@@ -9,17 +9,17 @@ Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. <b
 
 Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, Kwonjoon Lee, Sangjae Bae. <b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b>, <i>2025 International Conference on Robotics and Automation (ICRA 2025)</i> [publication](https://arxiv.org/pdf/2501.16539).
 
-Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee. <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data </b>, <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i> [publication](https://neurips.cc/virtual/2024/poster/95535).
+Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee. <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data</b>, <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i> [publication](https://neurips.cc/virtual/2024/poster/95535), [webpage](https://sgchi.github.io/dsposer/).
 
-Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush. <b> Optimal Driver Warning Generation in Dynamic Driving Environment </b>, <i>2024 International Conference on Robotics and Automation (ICRA 2024)</i> [publication](https://ieeexplore.ieee.org/document/10611250).
+Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush. <b> Optimal Driver Warning Generation in Dynamic Driving Environment</b>, <i>2024 International Conference on Robotics and Automation (ICRA 2024)</i> [publication](https://ieeexplore.ieee.org/document/10611250).
 
-Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer. <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction </b>, <i>IEEE Robotics and Automation Letters (RA-L)</i> [publication](https://arxiv.org/pdf/2401.03599).
+Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer. <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction</b>, <i>IEEE Robotics and Automation Letters (RA-L)</i> [publication](https://arxiv.org/pdf/2401.03599).
 
-<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush. <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning </b>, <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)</i> [publication](https://arxiv.org/abs/2309.06597) [video](https://www.youtube.com/watch?v=a0MX3llh7bk&t=17s).
+<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush. <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning</b>, <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)</i> [publication](https://arxiv.org/abs/2309.06597) [video](https://www.youtube.com/watch?v=a0MX3llh7bk&t=17s).
 
 <b>Enna Sachdeva</b>, C Choi. <b> DIDER: Discovering Interpretable Dynamically Evolving Relations</b>, <i>IEEE Robotics and Automation Letters (RA-L)</i> [publication](https://ieeexplore.ieee.org/document/9894686) [video](https://www.youtube.com/watch?v=tq-yprh-AGY&t=2s).
 
-L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan. <b>Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction </b>, <i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)</i> [publication](https://arxiv.org/pdf/2203.15112.pdf).
+L Sun, C Tang, Y Niu, <b>E Sachdeva</b>, C Choi, T Misu, M Tomizuka, W Zhan. <b>Domain Knowledge Driven Pseudo Labels for Interpretable Goal-Conditioned Interactive Trajectory Prediction</b>, <i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)</i> [publication](https://arxiv.org/pdf/2203.15112.pdf).
 
 Tong Wu, <b>Enna Sachdeva</b>, Kumar Akash, Xingwei Wu, Teruhisa Misu, Jorge Ortiz. <b>Toward an Adaptive Situational Awareness Support System for Urban Driving</b>, <i>33rd IEEE Intelligent Vehicles Symposium (IV-2022)</i> [publication](https://ieeexplore.ieee.org/abstract/document/9827205).
 
@@ -39,12 +39,12 @@ Singh, Akash, <b>Enna Sachdeva</b>, Abhishek Sarkar, and K. Madhava Krishna. <b>
 
 <b>Enna Sachdeva</b>, Singh, Akash, Vinay Rodrigues, Abhishek Sarkar, and K. Madhava Krishna. <b>CObRaSO: Compliant Omni-Direction Bendable Hybrid Rigid and Soft OmniCrawler Module</b>, <i>In Arxiv</i> [publication](https://arxiv.org/abs/1709.10452).
 
-Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian Kohler, and Rajan Rawal. <b>A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems.</b>, 
+Godithi, Sam Babu, <b>Enna Sachdeva</b>, Vishal Garg, Richard Brown, Christian Kohler, and Rajan Rawal. <b>A review of advances for thermal and visual comfort controls in personal environmental control (PEC) systems</b>, 
 <i>Intelligent Buildings International (2018): 1-30</i> [publication](https://www.tandfonline.com/doi/abs/10.1080/17508975.2018.1543179).
 
-<b>Sachdeva, Enna</b>, Pratik Porwal, Nalini Vidyulatha, and Rahul Shrestha. <b>Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System. </b><i>In India Conference (INDICON), 2016 IEEE Annual, pp. 1-6. IEEE, 2016</i> [publication](https://ieeexplore.ieee.org/document/7839149).
+<b>Sachdeva, Enna</b>, Pratik Porwal, Nalini Vidyulatha, and Rahul Shrestha. <b>Design of a Low power VLSI-Architecture and ASIC Implementation of Fuzzy Logic based Automatic Car-Parking System</b><i>In India Conference (INDICON), 2016 IEEE Annual, pp. 1-6. IEEE, 2016</i> [publication](https://ieeexplore.ieee.org/document/7839149).
 
-<b>Sachdeva, Enna</b>, S. P. Mishra. <b>Improving method of correcting AES keys obtained from cold boot attack. </b><i>In Electrical, Computer and Communication Technologies (ICECCT), 2015 IEEE International Conference on, pp. 1-8. IEEE, 2015</i> [publication](https://ieeexplore.ieee.org/document/7226024).
+<b>Sachdeva, Enna</b>, S. P. Mishra. <b>Improving method of correcting AES keys obtained from cold boot attack,</b> <i>International Conference on Electrical, Computer and Communication Technologies (ICECCT), 2015</i> [publication](https://ieeexplore.ieee.org/document/7226024).
 
 
 
