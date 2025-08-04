@@ -9,13 +9,13 @@ Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. <b
 
 Piyush Gupta, David Isele, <b>Enna Sachdeva</b>, Pin-Hao Huang, Behzad Dariush, Kwonjoon Lee, Sangjae Bae. <b> Generalized Mission Planning for Heterogeneous Multi-Robot Teams via LLM-constructed Hierarchical Trees </b>, <i>2025 International Conference on Robotics and Automation (ICRA 2025)</i> [publication](https://arxiv.org/pdf/2501.16539).
 
-Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee. <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data</b>, <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i> [publication](https://neurips.cc/virtual/2024/poster/95535), [webpage](https://sgchi.github.io/dsposer/).
+Seunggeun Chi, Pin-Hao Huang*, <b>Enna Sachdeva*</b>, Hengbo Ma, Karthik Ramani, Kwonjoon Lee. <b> Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data</b>, <i>Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i> [publication](https://neurips.cc/virtual/2024/poster/95535) [webpage](https://sgchi.github.io/dsposer/).
 
 Chenran Li, Aolin Xu, <b>Enna Sachdeva</b>, Teruhisa Misu, and Behzad Dariush. <b> Optimal Driver Warning Generation in Dynamic Driving Environment</b>, <i>2024 International Conference on Robotics and Automation (ICRA 2024)</i> [publication](https://ieeexplore.ieee.org/document/10611250).
 
 Victoria Magdalena Dax, Jiachen Li, <b>Enna Sachdeva</b>, Nakul Agarwal, Mykel Kochenderfer. <b> Disentangled Neural Relational Inference for Interpretable Motion Prediction</b>, <i>IEEE Robotics and Automation Letters (RA-L)</i> [publication](https://arxiv.org/pdf/2401.03599).
 
-<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush. <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning</b>, <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)</i> [publication](https://arxiv.org/abs/2309.06597) [video](https://www.youtube.com/watch?v=a0MX3llh7bk&t=17s).
+<b>Enna Sachdeva\*</b>, Nakul Agarwal\*, Suhas Chundi, Sean Roelofs, Jiachen Li, Mykel Kochenderfer, Chiho Choi, Behzad Dariush. <b> Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning</b>, <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)</i> [publication](https://arxiv.org/abs/2309.06597) [dataset](https://usa.honda-ri.com/rank2tell).
 
 <b>Enna Sachdeva</b>, C Choi. <b> DIDER: Discovering Interpretable Dynamically Evolving Relations</b>, <i>IEEE Robotics and Automation Letters (RA-L)</i> [publication](https://ieeexplore.ieee.org/document/9894686) [video](https://www.youtube.com/watch?v=tq-yprh-AGY&t=2s).
 
