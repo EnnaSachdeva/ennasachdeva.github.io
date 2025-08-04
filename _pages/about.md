@@ -26,9 +26,9 @@ I'm a Research Engineer at [Honda Research Institute, USA](https://usa.honda-ri.
 * 08/2022: One [paper](https://ieeexplore.ieee.org/document/9894686) on discovering interpretable relations accepted at Robotics and Automation Letters (RAL).
 * 06/2022: One [paper](https://arxiv.org/pdf/2203.15112.pdf) on goal conditioned interpretable trajectory prediction accepted at IROS-2022.
 * 04/2022: One [paper](https://ieeexplore.ieee.org/document/9894686) on Driver's Adaptive Situational Awareness accepted at Intelligent Vehicles (IV) 2022.
-* 03/2021: Joined Honda Research Institute USA, Inc. as a Machine Learning Research Engineer, 
-* 03/2021: One [paper](https://dl.acm.org/doi/10.1145/3449639.3459387) on Multiagent Coordination is accepted at GECCO-2021.
-* 12/2020: One Extended [Abstract](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) on Multiagent Coordination is accepted at AAMAS-2021.
+* 03/2021: Joined Honda Research Institute USA, Inc. as a Machine Learning Research Engineer.
+* 03/2021: One [paper](https://dl.acm.org/doi/10.1145/3449639.3459387) on Multiagent Coordination accepted at GECCO-2021.
+* 12/2020: One Extended [Abstract](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) on Multiagent Coordination accepted at AAMAS-2021.
 
 ## Conference Reviewer
 * NeurIPS, CVPR, WACV, ICCV, AAAI, ICLR, CoRL, IV, ICRA, ICMLA, RAL, ROMAN
