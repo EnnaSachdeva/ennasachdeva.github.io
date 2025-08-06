@@ -31,10 +31,10 @@ I'm a Research Engineer at [Honda Research Institute, USA](https://usa.honda-ri.
 * 12/2020: One Extended [Abstract](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1637.pdf) on Multiagent Coordination accepted at AAMAS-2021.
 
 ## Conference Reviewer
-* The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, 2026
-* Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 * International Conference on Computer Vision (ICCV) 2025
+* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, 2026
+* Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 * International Conference on Learning Representations (ICLR) 2025
 * IEEE Robotics and Automation Letters (RAL) 2022, 2025
 * IEEE International Conference on Robotics & Automation (ICRA) 2025
@@ -43,7 +43,7 @@ I'm a Research Engineer at [Honda Research Institute, USA](https://usa.honda-ri.
 * IEEE Intelligent Vehicles Symposium (IV) 2023
 * IEEE International Conference on Machine Learning and Applications (ICMLA) 2022
 * IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2022
-
+  
 ## Research Interests
 * Multimodal LLMs
 * Embodied AI
