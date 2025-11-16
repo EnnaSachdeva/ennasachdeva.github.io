@@ -37,6 +37,7 @@ I'm a Research Engineer at [Honda Research Institute, USA](https://usa.honda-ri.
 * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, 2026
 * Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 * International Conference on Learning Representations (ICLR) 2025
+* IEEE Transactions on Intelligent Transportation Systems(T-ITS) 2025
 * IEEE Robotics and Automation Letters (RAL) 2022, 2025
 * IEEE International Conference on Robotics & Automation (ICRA) 2025
 * Association for the Advancement of Artificial Intelligence (AAAI) 2024
