@@ -19,15 +19,15 @@ Work experience
 ======
 
 * March 2021-Present: Research Engineer
-  * Honda Research Institute
+  * Honda Research Institute USA, Inc.
   
 * Sept 2020-Dec 2020: Research Intern
-  * Honda Research Institute
+  * Honda Research Institute USA, Inc.
   
 * July 2020-August 2020: Software Intern
   * CodeDay Labs
   
-* Janurary 2019-June 2020: Graduate Research Assistant
+* January 2019-June 2020: Graduate Research Assistant
   * Oregon State University
   * Supervisor: Professor Kagan Tumer
 
