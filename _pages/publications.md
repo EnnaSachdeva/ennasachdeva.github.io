@@ -3,7 +3,10 @@ title: "[Google Scholar](https://scholar.google.com/citations?user=QIZZA0oAAAAJ&
 permalink: /publications/
 author_profile: true
 ---
-Seunggeun Chi, <b>Enna Sachdeva</b>, Pin-Hao Huang, Kwonjoon Lee. <b> Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting</b>, Accepted at <i>International Conference on Computer Vision (ICCV 2025)</i> [publication](https://arxiv.org/abs/2508.00427).
+
+Haochen Zhang, Nirav Savaliya, Faizan Siddiqui, <b>Enna Sachdeva</b>, <b> FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy</b>, <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</i> [publication](https://openaccess.thecvf.com/content/WACV2026/papers/Zhang_FAST-EQA_Efficient_Embodied_Question_Answering_with_Global_and_Local_Region_WACV_2026_paper.pdf) [webpage](https://astronirav.github.io/fasteqa/).
+
+Seunggeun Chi, <b>Enna Sachdeva</b>, Pin-Hao Huang, Kwonjoon Lee. <b> Contact-Aware Amodal Completion for Human-Object Interaction via Multi-Regional Inpainting</b>, <i>International Conference on Computer Vision (ICCV 2025)</i> [publication](https://arxiv.org/abs/2508.00427).
 
 Haoqiang Kang, <b>Enna Sachdeva</b>, Piyush Gupta, Sangjae Bae, Kwonjoon Lee. <b> GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks</b>, <i>2025 Conference on Computer Vision and Pattern Recognition (CVPR 2025)</i> [publication](https://arxiv.org/pdf/2503.06514) [webpage](https://mk322.github.io/gflowvlm/).
 
