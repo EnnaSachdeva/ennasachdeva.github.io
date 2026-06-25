@@ -3,7 +3,6 @@ title: "[Google Scholar](https://scholar.google.com/citations?user=QIZZA0oAAAAJ&
 permalink: /publications/
 author_profile: true
 ---
-https://arxiv.org/pdf/2606.25317
 
 Shih-Po Lee, Reza Ghoddoosian, Faizan Siddiqui, <b>Enna Sachdeva</b>, Behzad Dariush, <b> ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency</b>, <i>European Conference on Computer Vision (ECCV 2026)</i> [publication](https://arxiv.org/pdf/2606.25317).
 
