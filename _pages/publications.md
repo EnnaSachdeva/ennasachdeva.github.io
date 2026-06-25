@@ -5,7 +5,7 @@ author_profile: true
 ---
 https://arxiv.org/pdf/2606.25317
 
-Shih-Po Lee, Reza Ghoddoosian, Faizan Siddiqui, <b>Enna Sachdeva</b>, Behzad Dariush, <b> ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency</b>, <i>European Conference on Computer Vision (ECCV 2026)</i> [publication (https://arxiv.org/pdf/2606.25317)
+Shih-Po Lee, Reza Ghoddoosian, Faizan Siddiqui, <b>Enna Sachdeva</b>, Behzad Dariush, <b> ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency</b>, <i>European Conference on Computer Vision (ECCV 2026)</i> [publication](https://arxiv.org/pdf/2606.25317)
 
 Haochen Zhang, Nirav Savaliya, Faizan Siddiqui, <b>Enna Sachdeva</b>, <b> FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy</b>, <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</i> [publication](https://openaccess.thecvf.com/content/WACV2026/papers/Zhang_FAST-EQA_Efficient_Embodied_Question_Answering_with_Global_and_Local_Region_WACV_2026_paper.pdf) [webpage](https://astronirav.github.io/fasteqa/).
 
