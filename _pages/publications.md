@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Faizan Siddiqui, Nirav Savaliya, Sahith Reddy Chada, <b>Enna Sachdeva</b>, <b>Thinking from Above: Efficient Spatial Reasoning with Bird's-Eye-View Visual Tokens </b>, <i>The IEEE/CVF Winter Conference on Applications of Computer Vision 2027 (WACV 2027) [publication](https://arxiv.org/abs/2610.22700).
+Faizan Siddiqui, Nirav Savaliya, Sahith Reddy Chada, <b>Enna Sachdeva</b>, <b>Thinking from Above: Efficient Spatial Reasoning with Bird's-Eye-View Visual Tokens </b>, <i>The IEEE/CVF Winter Conference on Applications of Computer Vision 2027 (WACV 2027)<i> [publication](https://arxiv.org/abs/2610.22700).
 
-Gerard L Donahue, Guven Gergerli, Ayush Gupta, Reza Ghoddoosian, <b>Enna Sachdeva</b>, Faizan Siddiqui, <b> Adaptive Residual Quantization for Memory-Efficient Temporal Action Segmentation</b>, <i>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) [publication](https://nips.cc/virtual/2026/loc/sydney/poster/150739).
+Gerard L Donahue, Guven Gergerli, Ayush Gupta, Reza Ghoddoosian, <b>Enna Sachdeva</b>, Faizan Siddiqui, <b> Adaptive Residual Quantization for Memory-Efficient Temporal Action Segmentation</b>, <i>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)<i>T [publication](https://nips.cc/virtual/2026/loc/sydney/poster/150739).
 
 Shih-Po Lee, Reza Ghoddoosian, Faizan Siddiqui, <b>Enna Sachdeva</b>, Behzad Dariush, <b> ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency</b>, <i>European Conference on Computer Vision (ECCV 2026)</i> [publication](https://arxiv.org/pdf/2606.25317).
 
